@@ -7,7 +7,7 @@
                 0,
                 1
             ],
-            "allow_automatic_download": true,
+            "allow_automatic_download": false,
             "download_url": "https://github.com/BD-Review/test-manual-download/archive/refs/heads/main.zip",
             "minimum_blender_version": [
                         2,
